@@ -1,0 +1,23 @@
+.menu-list{
+    display: flex;
+}
+
+.menu-list li{
+    margin-left: 40px;
+    list-style:none ;
+}
+
+.menu-list a{
+    text-decoration: none;
+}
+
+.menu-list h4{
+    margin: 0px;
+}
+
+.heading{
+  
+    color:orange;
+    text-align: center;
+    margin-top: 50px;
+}
